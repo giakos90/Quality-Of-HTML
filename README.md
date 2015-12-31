@@ -12,9 +12,7 @@ collection of HTML metrics to be used on a number of webpages.
 Finally there will be a display and analysis of the statistics so that conclusions can be 
 given on how we can achieve HTML code quality with high standards.
 
-
-
-Components:
+Sources:
 
 AlexaSEO: Get Alexa score for a website || http://www.mkyong.com/java/how-to-get-alexa-ranking-in-java/
 GoogleSEOHelper: Get Google PR for a website || http://www.mkyong.com/java/how-to-get-google-pagerank-pr-in-java/
