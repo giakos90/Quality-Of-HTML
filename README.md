@@ -14,7 +14,7 @@ given on how we can achieve HTML code quality with high standards.
 
 
 
-Components
+Components:
 
 AlexaSEO: Get Alexa score for a website || http://www.mkyong.com/java/how-to-get-alexa-ranking-in-java/
 GoogleSEOHelper: Get Google PR for a website || http://www.mkyong.com/java/how-to-get-google-pagerank-pr-in-java/
